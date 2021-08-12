@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dima2142
+- 👋 Hi, I’m @dima2142, Dmitriy, I am from Ukraine(Kharkiv)
 - 👀 I’m interested in FrontEnd Development and JavaScript
 - 🌱 I’m currently learning FrontEnd
 - 💞️ I’m looking to collaborate on Junior Frontend developer
